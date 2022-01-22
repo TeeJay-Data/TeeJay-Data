@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TeeJay-Data
+- 👋 Hi, I’m Olatunji Ewebiyi @TeeJay-Data
 - 👀 I’m interested in Data Analytics, Data Science, Machine Learning and Artificail Intelligence 
 - 🌱 I’m currently learning  ML and AI
 - 💞️ I’m looking to collaborate on any of the above
